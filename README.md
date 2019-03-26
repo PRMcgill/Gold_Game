@@ -1,11 +1,20 @@
-# Gold_Game
+# Tetris
+This is a tetris game made in Python with Pygame
 
-1. Things to install to run the game:
-  * Pygame
-  * Python3
-2. Instructions:
-  * Type python tetris.py in the terminal
-  * Enjoy!
-3. Reasons for the game:
-  * Wanted to make a game in python and tetris is a fun game to play for me.
-  * Found a video online for how to make this game and followed along.
+# Prerequisites
+1 Python
+2 Pygame
+
+# Installation
+* pip install pygame
+
+# How to use it
+* terminal
+python3 tetris.py
+
+# Coming Soon
+* allowing the user to lock in a block to save it for later
+* showing which block piece is next
+
+
+
