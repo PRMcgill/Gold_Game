@@ -1,7 +1,7 @@
 # Gold_Game
 
 1. Things to install to run the game:
-Pygame
+* Pygame
 Python3
 2. Instructions:
 Type python tetris.py in the terminal
